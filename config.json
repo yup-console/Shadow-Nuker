@@ -1,0 +1,22 @@
+{
+    "token": "bot_token",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "nuked using shadow nuker",
+            "nuked using shadow nuker",
+            "nuked using shadow nuker",
+            "nuked using shadow nuker"
+        ],
+        "roles_name": [
+            "SHADOW NUKER ON TOP",
+            "SHADOW NUKER ON TOP",
+            "SHADOW NUKER ON TOP"
+        ],
+        "messages_content": [
+            "@everyone @here server nuked !! https://github.com/yup-console/Shadow-Nuker",
+            "@everyone @here server nuked !! https://github.com/yup-console/Shadow-Nuker",
+            "@everyone @here server nuked !! https://github.com/yup-console/Shadow-Nuker"
+        ]
+    }
+}
