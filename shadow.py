@@ -1,4 +1,4 @@
-```
+
 # SHADOW NUKER BY YUP-CONSOLE
 
 # CHECKING FOR REQUIREMENTS.
@@ -555,4 +555,3 @@ def start(args):
 if __name__ == "__main__":
     args = sys.argv
     start(args)
-```
