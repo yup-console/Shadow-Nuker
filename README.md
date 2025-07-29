@@ -20,3 +20,14 @@ A Discord Nuke Tool Made In Python
 16. Rename Guild
 17. Delete Emojis
 
+# Installation
+```
+git clone https://github.com/yup-console/Shadow-Nuker
+cd Shadow-Nuker
+pip install -r requirements.txt
+[Edit config.json]
+python shadow.py
+```
+
+# Disclaimer
+This script is educational and fully coded by yup-console aka @console.fy in discord if you choose to abuse this tool it's are your fault and yup-console will not accept anything about you'r mistake.
