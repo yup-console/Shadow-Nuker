@@ -32,5 +32,20 @@ pip install -r requirements.txt
 python shadow.py
 ```
 
+# Important 
+If you got this error :
+```
+(Shadow) Guild ID: 1398298009443504310
+(-) Client.run() got an unexpected keyword argument 'bot'
+```
+Change Line 800
+From This :
+```py
+__client__.run(token, bot=True)
+```
+To This :
+```py
+__client__.run(token)
+```
 # Disclaimer
 This script is educational and fully coded by yup-console aka @console.fy in discord if you choose to abuse this tool it's are your fault and yup-console will not accept anything about you'r mistake.
