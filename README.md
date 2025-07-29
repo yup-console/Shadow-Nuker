@@ -2,7 +2,7 @@
 A Discord Nuke Tool Made In Python
 
 # Preview
-![]()
+![shadow](shadow.jpg)
 
 # Features
 1. Ban All
