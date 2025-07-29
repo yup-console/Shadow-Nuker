@@ -38,7 +38,8 @@ If you got this error :
 (Shadow) Guild ID: 1398298009443504310
 (-) Client.run() got an unexpected keyword argument 'bot'
 ```
-Change Line 800
+Change Line 800 In shadow.py
+
 From This :
 ```py
 __client__.run(token, bot=True)
