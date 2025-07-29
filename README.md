@@ -1,6 +1,9 @@
 # Shadow-Nuker
 A Discord Nuke Tool Made In Python
 
+# Preview
+![]()
+
 # Features
 1. Ban All
 2. Kick All
