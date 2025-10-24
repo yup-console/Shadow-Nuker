@@ -49,4 +49,4 @@ To This :
 __client__.run(token)
 ```
 # Disclaimer
-This script is educational and fully coded by yup-console aka @console.fy in discord if you choose to abuse this tool it's are your fault and yup-console will not accept anything about you'r mistake.
+This script is educational and fully coded by yup-console aka @iworship.ayush in discord if you choose to abuse this tool it's are your fault and yup-console will not accept anything about your mistake.
